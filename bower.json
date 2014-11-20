@@ -1,0 +1,20 @@
+{
+  "name": "Alex",
+  "version": "0.0.0",
+  "homepage": "https://github.com/elextro/django-blog",
+  "authors": [
+    "Miguel Cantu <miguel.can2@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "html5-boilerplate": "~4.3.0"
+  }
+}
